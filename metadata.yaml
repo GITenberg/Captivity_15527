@@ -1,0 +1,27 @@
+_repo: Captivity_15527
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eyles, Leonora
+    alias: Eyles, Margaret Leonora Pitcairn
+    birthdate: 1889
+    deathdate: 1960
+    gutenberg_agent_id: '6104'
+    url: http://www.gutenberg.org/2009/agents/6104
+description: ''
+gutenberg_issued: '2005-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Captivity
+url: http://www.gutenberg.org/ebooks/15527
